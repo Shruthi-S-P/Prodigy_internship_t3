@@ -1,1 +1,1 @@
-# Prodigy_internship_t3
+Implemented a SVM to classify images of cats and dogs from kaggle dataset
